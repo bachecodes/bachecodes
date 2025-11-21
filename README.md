@@ -5,19 +5,19 @@
 📈 Currently working on: Crypto price prediction ML project  
 📘 Interests: AI, ML, Cloud Computing, Backend Development  
 
-## 🌱 Current Goals
+# 🌱 Current Goals
 - Build strong ML fundamentals
 - Complete an end-to-end time-series ML project
 - Improve Python and data engineering skills
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 - Python, Pandas, NumPy
 - Scikit-Learn
 - Jupyter Notebooks
 - Git/GitHub
 
 ## 🔗 Connect with me
-LinkedIn: *your link*
+LinkedIn: www.linkedin.com/in/bachler-wendu-25632a392
 
 
 <!--
