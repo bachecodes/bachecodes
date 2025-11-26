@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bachler Wendu
 
-🎓 Computer Engineering student  
+🎓 Computer science and Engineering student  
 🤖 Learning Machine Learning, Time-Series, and Data Science  
 📈 Currently working on: Crypto price prediction ML project  
 📘 Interests: AI, ML, Cloud Computing, Backend Development  
@@ -11,9 +11,9 @@
 - Improve Python and data engineering skills
 
 # 🛠 Tech Stack
-- Python, Pandas, NumPy
-- Scikit-Learn
-- Jupyter Notebooks
+- Python, Pandas, NumPy, matplotlib
+- Scikit-Learn,scipy,pytorch,tenserflow
+- Jupyter Notebooks 
 - Git/GitHub
 
 ## 🔗 Connect with me
